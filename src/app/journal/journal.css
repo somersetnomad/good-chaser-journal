@@ -1,0 +1,32 @@
+.gc-article{max-width:760px;margin-inline:auto}
+.gc-article h2{margin-top:2.2rem;scroll-margin-top:1rem}
+.gc-article h3{margin-top:1.4rem}
+.gc-article li{margin:.35rem 0}
+.gc-crumbs{font-size:.85rem;opacity:.75;margin-bottom:.5rem}
+.gc-crumbs a{text-decoration:underline}
+.gc-meta{font-size:.85rem;opacity:.7;margin:.25rem 0 1rem}
+.gc-summary{border:1px solid color-mix(in srgb,currentColor 18%,transparent);border-radius:12px;padding:1rem 1.25rem;margin:1.5rem 0;background:color-mix(in srgb,currentColor 4%,transparent)}
+.gc-summary h2{margin:0 0 .5rem;font-size:1.05rem}
+.gc-summary ul{margin:0;padding-left:1.1rem}
+.gc-toc{margin:1.5rem 0;font-size:.95rem}
+.gc-toc p{font-weight:600;margin:0 0 .35rem}
+.gc-toc ol{margin:0;padding-left:1.2rem}
+.gc-toc a{text-decoration:underline}
+.gc-note{border-left:3px solid currentColor;padding:.6rem 1rem;margin:1.25rem 0;background:color-mix(in srgb,currentColor 5%,transparent);border-radius:0 8px 8px 0}
+.gc-table{overflow-x:auto;margin:1.25rem 0}
+.gc-table table{border-collapse:collapse;width:100%;font-size:.95rem}
+.gc-table caption{text-align:left;font-weight:600;padding-bottom:.4rem}
+.gc-table th,.gc-table td{border:1px solid color-mix(in srgb,currentColor 20%,transparent);padding:.5rem .65rem;text-align:left;vertical-align:top}
+.gc-table th{background:color-mix(in srgb,currentColor 6%,transparent)}
+.gc-email{margin:1.5rem 0;border:1px solid color-mix(in srgb,currentColor 20%,transparent);border-radius:12px;overflow:hidden}
+.gc-email figcaption{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;padding:.55rem 1rem;background:color-mix(in srgb,currentColor 7%,transparent)}
+.gc-email-subject{padding:.75rem 1rem 0;margin:0}
+.gc-email-body{padding:.25rem 1rem .75rem;white-space:pre-line}
+.gc-email-body p{margin:.65rem 0}
+.gc-related{margin-top:2.5rem}
+.gc-related ul{list-style:none;padding:0}
+.gc-related li{padding:.75rem 0;border-top:1px solid color-mix(in srgb,currentColor 14%,transparent)}
+.gc-related a{display:block;font-weight:600;text-decoration:underline}
+.gc-related span{display:block;font-size:.9rem;opacity:.75;margin-top:.15rem}
+.gc-cta{margin:2.5rem 0 1.5rem}
+.gc-small{font-size:.8rem;opacity:.7}
