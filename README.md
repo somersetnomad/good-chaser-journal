@@ -12,3 +12,4 @@ The Vercel project `good-chaser` pulls these files in at build time via `scripts
 - `src/app/journal/page.tsx` — journal index
 - `src/app/sitemap.ts` — sitemap with lastModified dates
 - `next.config.ts` — security headers + 301s for the 7 merged guides (`mergedSlugs`)
+- `src/app/layout.tsx` — site shell (header/footer); overrides the deployed copy, footer credits Noor Intelligence
